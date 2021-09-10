@@ -1,0 +1,5 @@
+jhon,140,128
+mario,50,300
+martinez,250,420
+gladys,260,150
+isabel,265,380
